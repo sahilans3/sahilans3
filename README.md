@@ -1,14 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Sahil Ansari</h1>
+<h1 align="center">Hi there 👋, My name is Sahil Ansari</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 Open Source Contributor | 🎯 B.Tech CSE'26 | 🇮🇳 India
+  🚀 Full-Stack Developer  | 🎯 B.Tech CSE'26 | 🇮🇳 India
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 3rd-year B.Tech Computer Science Student
+- 🎓 Final year B.Tech Computer Science Student
 - 💻 Passionate about building scalable web applications and solving real-world problems
 - 🔭 Currently contributing to open-source projects (React, WordPress, Python)
 - 🌱 Learning backend architecture, AI integration, and large-scale open-source software
@@ -29,22 +29,11 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [BlogSphere](https://github.com/sahilans3/BlogSphere) | A dynamic blogging platform with modern UI built in React and Node.js |
-| 📊 [Student Performance Dashboard](https://github.com/sahilans3/Student-Performance-Dashboard) | Python + Power BI project for visualizing student performance data |
-| 🛡️ [Women Safety App](https://github.com/sahilans3/WomenSafetyApp) *(WIP)* | An app built for hackathons focusing on emergency alert and geolocation |
-| 📁 [Hackathon Projects](https://github.com/sahilans3/Hackathon-Projects) | Collection of projects built for various smart solution events |
+| 📺 [vTube](https://github.com/sahilans3/Backend-Project) | Backend for a YouTube-style platform using Express.js, MongoDB, and JWT |
 
 ---
 
-### 📈 Contributions Snapshot
 
-- ✔️ Total Public Repos: **15+**
-- 🔁 Pull Requests: **Actively contributing to [Frappe](https://github.com/frappe), [WordPress](https://github.com/WordPress), and [React](https://github.com/facebook/react)**
-- 🌍 Recent Contributions:
-  - ✅ Feature enhancements in React-based projects
-  - 🐛 Bug fixes and improvements in WordPress plugin development
-  - 📦 Backend APIs using Express.js and Flask
-
----
 
 ### 🛠️ Tech Stack
 
